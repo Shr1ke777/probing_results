@@ -1,4 +1,4 @@
-<h2 align="center"> More probing results on several stronger probes
+<h1 align="center"> More probing results on several stronger probes</h1>
 
 
 
